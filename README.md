@@ -24,4 +24,3 @@ Ce projet propose une exploration approfondie de la génération automatique de 
 #### Perspectives :  
 - Améliorations via segmentation des textes, fine-tuning sur des données spécifiques ou utilisation de modèles spécialisés comme Longformer.  
 
-Ce projet est une contribution à la recherche en TAL, visant à rendre le traitement des informations plus rapide et accessible.
