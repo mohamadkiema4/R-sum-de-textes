@@ -24,3 +24,5 @@ Ce projet propose une exploration approfondie de la génération automatique de 
 #### Perspectives :  
 - Améliorations via segmentation des textes, fine-tuning sur des données spécifiques ou utilisation de modèles spécialisés comme Longformer.  
 
+### Remarque importante :
+Le dataset complet (fichiers train, test et validation) n'est pas inclus car leur taille volumineuse rend leur chargement impossible dans ce dépôt. Cependant, le code Jupyter contient la partie dédiée à la sauvegarde des fichiers prétraités. Cela facilite la compilation et permet une exécution rapide en cas d'accès aux données.
